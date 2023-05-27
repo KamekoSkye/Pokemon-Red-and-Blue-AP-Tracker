@@ -8,7 +8,8 @@
             {
                 "name": "Fossil",
                 "access_rules": [
-                    "$pewter,[$cinnabar],[$fossils]"
+                    "$pewter,$cinnabar,$fossils",
+		    "{$pewter}"
                 ],
                 "sections": [
                     {
